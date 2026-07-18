@@ -1,6 +1,6 @@
 # Hi, I'm Manjunadh 👋
 
-DevOps Engineer working on Kubernetes, GitOps, and cloud infrastructure.
+DevOps Engineer.
 
 ![Manjunadh418's GitHub Stats](./dark_mode.svg#gh-dark-mode-only)
 ![Manjunadh418's GitHub Stats](./light_mode.svg#gh-light-mode-only)
